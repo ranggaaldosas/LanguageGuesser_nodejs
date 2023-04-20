@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple language Guesser using NodeJS modules **Teknologi Multimedia Kelompok X**
+A simple language Guesser using 3 NPM modules
 
 
 ## Tech Stack
